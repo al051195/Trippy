@@ -1,0 +1,82 @@
+{
+  "features" : [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.95752,0.44165,0.39087,1.00000"
+  },
+  "groups" : [
+    {
+      "blend-mode" : "screen",
+      "blur-material" : 0.16,
+      "hidden" : false,
+      "layers" : [
+        {
+          "hidden" : false,
+          "image-name" : "airplane-svgrepo-com-3.svg",
+          "name" : "airplane",
+          "position" : {
+            "scale" : 0.8,
+            "translation-in-points" : [
+              -133.99327588208905,
+              89.48000000000002
+            ]
+          }
+        }
+      ],
+      "name" : "Plane",
+      "refractivity" : {
+        "depth" : 0.28,
+        "enabled" : true,
+        "strength" : 0.28
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 1
+      },
+      "specular" : "outside",
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.55
+      }
+    },
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "image-name" : "globe-2-svgrepo-com.svg",
+          "name" : "globe",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "name" : "Globe",
+      "refractivity" : {
+        "depth" : 0.3,
+        "enabled" : false,
+        "strength" : 0.5
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "specular" : "inside",
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.55
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
