@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/Trippy1-iOS-Default-1024%401x.png" width="180">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/Trippy.png" width="180">
 
 # Trippy
 
@@ -12,6 +12,14 @@ A travel journal app for iOS. Import your photos and videos, organize them into 
 <img src="https://img.shields.io/badge/iOS-26-green">
 <img src="https://img.shields.io/badge/XCode-27.1+-blue">
 <img src="https://img.shields.io/badge/license-GPLv3-blue">
+</p>
+
+<p>
+<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone1.png" height="300">
+<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone2.png" height="300">
+<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone3.png" height="300">
+<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone4.png" height="300">
+<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone5.png" height="300">
 </p>
 
 </div>
