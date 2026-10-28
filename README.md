@@ -15,11 +15,11 @@ A travel journal app for iOS. Import your photos and videos, organize them into 
 </p>
 
 <p>
-<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone1.png" height="300">
-<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone2.png" height="300">
-<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone3.png" height="300">
-<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone4.png" height="300">
-<img src="https://github.com/al051195/SkyWizard-SwiftUI-Liquid-Glass/blob/master/banners/iphone5.png" height="300">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/banners/iphone1.png" height="300">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/banners/iphone2.png" height="300">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/banners/iphone3.png" height="300">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/banners/iphone4.png" height="300">
+<img src="https://github.com/al051195/Trippy/blob/main/repo-assets/banners/iphone5.png" height="300">
 </p>
 
 </div>
